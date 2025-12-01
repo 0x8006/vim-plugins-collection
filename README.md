@@ -1,4 +1,4 @@
-# a vim & neovim plugins collection
+# a vim & neovim plugins collection.
 
 <details open><summary><h2>Vim</h2></summary>
 
