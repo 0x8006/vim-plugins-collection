@@ -1,10 +1,12 @@
 # vim-plugin-collection
 
-https://github.com/junegunn/vim-plug
+vim-plug: https://github.com/junegunn/vim-plug
 
 some vim plugins 
 
-1. nerdtree: https://github.com/preservim/nerdtree
+<details open><summary><h2>Vim</h2></summary>
+
+- [nerdtree](https://github.com/preservim/nerdtree) a vscode-like sidebar
 2. ColorPicker: https://github.com/KabbAmine/vCoolor.vim
 3. lightline: https://github.com/itchyny/lightline.vim
 4. gruvbox: https://github.com/morhetz/gruvbox
@@ -36,6 +38,8 @@ some vim plugins
 30. https://github.com/farconics/victionary
 31. https://github.com/rahul13ramesh/Dark-Vimwiki-Template
 32. https://github.com/psliwka/vim-dirtytalk
+
+<details open><summary><h2>Neovim</h2></summary>
 
 for neovim
 
