@@ -2,19 +2,19 @@
 
 <details open><summary><h2>Vim</h2></summary>
 
-<h2>setup</h2>
+### setup
 
 - [vim-plug](https://github.com/junegunn/vim-plug)
 
-## syntax 
+### syntax 
 - [nim.vim](https://github.com/zah/nim.vim)
 
-## reference
+### reference
 - [dictionary.vim](https://github.com/itchyny/dictionary.vim)
 - [vim-kensaku](https://github.com/lambdalisue/vim-kensaku)
 - [victionary](https://github.com/farconics/victionary)
 
-<h2>web</h2>
+### web
 
 - [html5.vim](https://github.com/othree/html5.vim)
 
@@ -45,7 +45,7 @@
 - [jupter-vim](https://github.com/jupyter-vim/jupyter-vim)
 - [vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk)
 
-## theme
+### theme
 - [Dark-Vimwiki-Template](https://github.com/rahul13ramesh/Dark-Vimwiki-Template)
 
 
@@ -54,7 +54,7 @@
 
 <details open><summary><h2>Neovim</h2></summary>
 
-<h2>setup</h2>
+### setup
 
 - [LazyVim](https://github.com/LazyVim/LazyVim)
 
