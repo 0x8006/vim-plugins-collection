@@ -7,8 +7,8 @@ some vim plugins
 1. nerdtree: https://github.com/preservim/nerdtree
 2. ColorPicker: https://github.com/KabbAmine/vCoolor.vim
 3. lightline: https://github.com/itchyny/lightline.vim
-4. https://github.com/morhetz/gruvbox
-5. https://github.com/vim-syntastic/syntastic
+4. gruvbox: https://github.com/morhetz/gruvbox
+5. syntastic: https://github.com/vim-syntastic/syntastic
 6. https://github.com/mbbill/undotree
 7. https://github.com/puremourning/vimspector
 8. https://github.com/liuchengxu/space-vim
