@@ -7,8 +7,9 @@
 - [vim-plug](https://github.com/junegunn/vim-plug)
 
 ### syntax 
-- [nim.vim](https://github.com/zah/nim.vim)
+- [nim.vim](https://github.com/zah/nim.vim) nim lang hightight
 - [syntastic](https://github.com/vim-syntastic/syntastic)
+- [maxmellon](https://github.com/valsorym/maxmellon-vim-jsx-pretty?tab=readme-ov-file) jsx/tsx
 
 ### reference
 - [dictionary.vim](https://github.com/itchyny/dictionary.vim)
