@@ -73,5 +73,6 @@
 
 ### others
 - [barbar.nvim](https://github.com/romgrk/barbar.nvim)
+- [snacks.nvim](https://github.com/folke/snacks.nvim)
 
 </details>
