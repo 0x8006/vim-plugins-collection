@@ -55,6 +55,7 @@
 - [vdebug](https://github.com/vim-vdebug/vdebug)
 - [jupter-vim](https://github.com/jupyter-vim/jupyter-vim)
 - [vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk)
+- [pearticle](https://github.com/eshimab/pearticle)
 
 ---
 </details>
